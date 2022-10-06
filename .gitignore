@@ -34,3 +34,5 @@ build/
 /src/main/resources/application.properties
 /src/main/resources/application-iesmanacor.properties
 /src/main/resources/application-dev.properties
+/.mvn/wrapper/maven-wrapper.properties
+/.mvn/wrapper/maven-wrapper.jar
